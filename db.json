@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "username": "user1", "score": "" },
+    { "username": "user2", "score": "" },
+    { "username": "user3", "score": "" },
+    { "username": "user4", "score": "" },
+    { "username": "user5", "score": "" },
+    { "username": "user6", "score": "" }
+  ]
+}
